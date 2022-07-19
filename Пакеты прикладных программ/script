@@ -1,0 +1,1 @@
+yacc -d while.y && lex while.l && cc lex.yy.c y.tab.c variables.c -o while && ./while  < inp.txt > out.txt

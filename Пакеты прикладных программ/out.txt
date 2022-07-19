@@ -1,0 +1,1216 @@
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+SEMICOLON
+На 2 строке 2 столбце обнаружена ошибка: Данной переменной не существует
+Вычисленное выражение: 1955313120
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+SEMICOLON
+Переменная y имеет значение 1
+Вычисленное выражение: 1
+PLUS
+SEMICOLON
+Вычисленное выражение: 3
+DIVIDE
+SEMICOLON
+Вычисленное выражение: 2
+MULTIPLY
+SEMICOLON
+Вычисленное выражение: 12
+MINUS
+SEMICOLON
+Вычисленное выражение: 2
+MULTIPLY
+PLUS
+DIVIDE
+MINUS
+MULTIPLY
+SEMICOLON
+Вычисленное выражение: 7
+MINUS
+LPAREN
+PLUS
+RPAREN
+SEMICOLON
+Вычисленное выражение: -5
+PLUS
+MULTIPLY
+SEMICOLON
+Вычисленное выражение: 14
+MULTIPLY
+LPAREN
+MINUS
+RPAREN
+SEMICOLON
+Вычисленное выражение: 8
+IDENTIFIER = z
+EQUAL
+MULTIPLY
+LPAREN
+MINUS
+RPAREN
+PLUS
+MULTIPLY
+MINUS
+SEMICOLON
+DO WHILE
+LPAREN
+LESS
+RPAREN
+Выражение слева: 1
+Выражение справа: 5
+PLUS
+SEMICOLON
+Вычисленное выражение: 10
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 5
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 4
+LESS
+RPAREN
+Выражение слева: 4
+Выражение справа: 5
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 1
+Выражение справа: 5
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+PLUS
+SEMICOLON
+Вычисленное выражение: 3
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+DIVIDE
+На 17 строке 3 столбце обнаружена ошибка: Деление на ноль
+SEMICOLON
+Вычисленное выражение: 0
+IDENTIFIER = x
+.SEMICOLON
+На 18 строке 3 столбце обнаружена ошибка: Ошибка в присвоении значения переменной
+IDENTIFIER = var
+_IDENTIFIER = test
+На 19 строке 7 столбце обнаружена ошибка: Данной переменной не существует
+SEMICOLON
+На 19 строке 8 столбце обнаружена ошибка: Ошибка в присвоении значения переменной
+IDENTIFIER = x
+PLUS
+Переменная x имеет значение 4
+IDENTIFIER = lll
+SEMICOLON
+На 20 строке 7 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+GEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 1
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+IDENTIFIER = x
+Переменная x имеет значение 4
+MULTIPLY
+SEMICOLON
+DO WHILE
+LPAREN
+LESS
+RPAREN
+Выражение слева: 1
+Выражение справа: 3
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+LOOP
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+LOOP
+SEMICOLON
+На 22 строке 5 столбце обнаружена ошибка: LOOP вне DO WHILE
+EXIT
+SEMICOLON
+На 23 строке 5 столбце обнаружена ошибка: EXIT вне DO WHILE
+DO WHILE
+LPAREN
+IDENTIFIER = CHECK
+На 24 строке 14 столбце обнаружена ошибка: Данной переменной не существует
+LESS
+RPAREN
+Выражение слева: 1955313568
+Выражение справа: 1
+ENDDO
+SEMICOLON
+IDENTIFIER = DOWHILE
+SEMICOLON
+На 25 строке 8 столбце обнаружена ошибка: Данной переменной не существует
+Вычисленное выражение: 1955313600
+DO WHILE
+DO WHILE
+LPAREN
+IDENTIFIER = x
+LESS
+RPAREN
+PLUS
+SEMICOLON
+На 27 строке 18 столбце обнаружена ошибка: Неправильная команда
+LOOP
+ENDDO
+SEMICOLON
+На 27 строке 30 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 4
+GREATER
+AND
+Выражение слева: 4
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 24
+LEQ
+RPAREN
+Выражение слева: 24
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 3
+LEQ
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+GREATER
+GREATER
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+LEQ
+RPAREN
+PLUS
+SEMICOLON
+На 30 строке 25 столбце обнаружена ошибка: Неправильная команда
+EXIT
+ENDDO
+SEMICOLON
+На 30 строке 37 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+GREATER
+AND
+Выражение слева: 1
+Выражение справа: 6
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 6
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = y
+Переменная y имеет значение 4
+NEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+EXIT
+PLUS
+SEMICOLON
+На 34 строке 32 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+AND
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = z
+Переменная z имеет значение 50
+NEQ
+RPAREN
+Выражение слева: 50
+Выражение справа: 3
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+OR
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = z
+Переменная z имеет значение 50
+NEQ
+RPAREN
+Выражение слева: 50
+Выражение справа: 3
+LOOP
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+OR
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = z
+Переменная z имеет значение 50
+NEQ
+RPAREN
+Выражение слева: 50
+Выражение справа: 3
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 1
+Выражение справа: 5
+PLUS
+ENDDO
+SEMICOLON
+На 38 строке 24 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 1
+Выражение справа: 5
+PLUS
+ENDDO
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+DO WHILE
+LPAREN
+GREATER
+AND
+IDENTIFIER = x
+GREATER
+RPAREN
+PLUS
+SEMICOLON
+На 40 строке 40 столбце обнаружена ошибка: Неправильная команда
+LOOP
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 2
+Выражение справа: 5
+DO WHILE
+LPAREN
+GREATER
+AND
+Выражение слева: 1
+Выражение справа: 5
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+LOOP
+SEMICOLON
+На 41 строке 46 столбце обнаружена ошибка: LOOP вне DO WHILE
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 1
+DO WHILE
+LPAREN
+GREATER
+AND
+Выражение слева: 2
+Выражение справа: 3
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+ENDDO
+SEMICOLON
+LOOP
+SEMICOLON
+На 42 строке 67 столбце обнаружена ошибка: LOOP вне DO WHILE
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+DO WHILE
+ENDDO
+SEMICOLON
+На 43 строке 15 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+SEMICOLON
+На 44 строке 10 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+На 44 строке 17 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+ENDDO
+IDENTIFIER = DO
+NEQ
+ENDDO
+SEMICOLON
+На 46 строке 12 столбце обнаружена ошибка: Неправильная команда
+DIVIDE
+На 47 строке 3 столбце обнаружена ошибка: Деление на ноль
+SEMICOLON
+Вычисленное выражение: 0
+DIVIDE
+На 48 строке 3 столбце обнаружена ошибка: Деление на ноль
+PLUS
+SEMICOLON
+На 49 строке 4 столбце обнаружена ошибка: Неправильная команда
+.SEMICOLON
+На 50 строке 3 столбце обнаружена ошибка: Неправильная команда
+LESS
+.MULTIPLY
+MULTIPLY
+SEMICOLON
+На 52 строке 4 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+IDENTIFIER = Z
+На 53 строке 12 столбце обнаружена ошибка: Данной переменной не существует
+RPAREN
+Выражение слева: 3
+Выражение справа: 1955314848
+DO WHILE
+LPAREN
+IDENTIFIER = Z
+На 53 строке 24 столбце обнаружена ошибка: Данной переменной не существует
+GREATER
+AND
+Выражение слева: 1955314880
+Выражение справа: 1
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+ENDDO
+SEMICOLON
+LOOP
+SEMICOLON
+На 53 строке 67 столбце обнаружена ошибка: LOOP вне DO WHILE
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 1
+Выражение справа: 0
+DIVIDE
+На 54 строке 17 столбце обнаружена ошибка: Деление на ноль
+SEMICOLON
+Вычисленное выражение: 0
+ENDDO
+SEMICOLON
+IDENTIFIER = DO
+IDENTIFIER = WHHILE
+На 55 строке 9 столбце обнаружена ошибка: Данной переменной не существует
+LPAREN
+На 55 строке 10 столбце обнаружена ошибка: Ошибка в присвоении значения переменной
+На 55 строке 10 столбце обнаружена ошибка: Пропущена точка с запятой
+GREATER
+RPAREN
+PLUS
+SEMICOLON
+На 55 строке 19 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+На 55 строке 26 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 1
+ENDDO
+SEMICOLON
+GREATER
+SEMICOLON
+На 57 строке 4 столбце обнаружена ошибка: Неправильная команда
+LESS
+SEMICOLON
+На 58 строке 4 столбце обнаружена ошибка: Неправильная команда
+GREATER
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+IDENTIFIER = END
+IDENTIFIER = DO
+SEMICOLON
+На 60 строке 21 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 5
+Выражение справа: 1
+IDENTIFIER = END
+IDENTIFIER = DO
+На 61 строке 20 столбце обнаружена ошибка: Данной переменной не существует
+SEMICOLON
+На 61 строке 21 столбце обнаружена ошибка: Ошибка в присвоении значения переменной
+DO WHILE
+LPAREN
+GREATER
+AND
+Выражение слева: 1
+Выражение справа: 0
+PLUS
+GREATER
+OR
+Выражение слева: 10
+Выражение справа: 15
+PLUS
+LEQ
+RPAREN
+Выражение слева: 2
+Выражение справа: 3
+ENDDO
+SEMICOLON
+DO WHILE
+SEMICOLON
+На 63 строке 9 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+LOOP
+SEMICOLON
+На 65 строке 5 столбце обнаружена ошибка: LOOP вне DO WHILE
+EXIT
+SEMICOLON
+На 66 строке 5 столбце обнаружена ошибка: EXIT вне DO WHILE
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 1
+Выражение справа: 3
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+LESS
+RPAREN
+Выражение слева: 2
+Выражение справа: 1
+EXIT
+ENDDO
+SEMICOLON
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+PLUS
+SEMICOLON
+Вычисленное выражение: 4
+DO WHILE
+LPAREN
+NOT
+IDENTIFIER = z
+Переменная z имеет значение 50
+RPAREN
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+LESS
+IDENTIFIER = y
+Переменная y имеет значение 4
+RPAREN
+На 73 строке 13 столбце обнаружена ошибка: Пропущен знак сравнения
+PLUS
+SEMICOLON
+Вычисленное выражение: 5
+LOOP
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 1
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 3
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+EXIT
+PLUS
+SEMICOLON
+На 77 строке 31 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+IDENTIFIER = y
+Переменная y имеет значение 4
+AND
+Выражение слева: 3
+Выражение справа: 4
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+AND
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = z
+Переменная z имеет значение 50
+NEQ
+RPAREN
+Выражение слева: 50
+Выражение справа: 2
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+OR
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = z
+Переменная z имеет значение 50
+NEQ
+RPAREN
+Выражение слева: 50
+Выражение справа: 3
+LOOP
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+GREATER
+GREATER
+Выражение слева: 3
+Выражение справа: 2
+IDENTIFIER = y
+LESS
+RPAREN
+PLUS
+SEMICOLON
+На 80 строке 24 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+На 80 строке 32 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+GREATER
+OR
+Выражение слева: 1
+Выражение справа: 6
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 6
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = y
+Переменная y имеет значение 4
+NEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+OR
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = z
+Переменная z имеет значение 50
+NEQ
+RPAREN
+Выражение слева: 50
+Выражение справа: 3
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+GREATER
+RPAREN
+Выражение слева: 2
+Выражение справа: 5
+DO WHILE
+LPAREN
+GREATER
+OR
+Выражение слева: 1
+Выражение справа: 5
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+LOOP
+SEMICOLON
+На 84 строке 45 столбце обнаружена ошибка: LOOP вне DO WHILE
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 1
+DO WHILE
+LPAREN
+GREATER
+OR
+Выражение слева: 2
+Выражение справа: 3
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 3
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+IDENTIFIER = y
+Переменная y имеет значение 4
+RPAREN
+Выражение слева: 3
+Выражение справа: 4
+PLUS
+SEMICOLON
+Вычисленное выражение: 4
+ENDDO
+SEMICOLON
+EXIT
+SEMICOLON
+На 85 строке 66 столбце обнаружена ошибка: EXIT вне DO WHILE
+ENDDO
+SEMICOLON
+ENDDO
+SEMICOLON
+EQUAL
+SEMICOLON
+На 86 строке 3 столбце обнаружена ошибка: Неправильная команда
+SEMICOLON
+Вычисленное выражение: 2
+PLUS
+MULTIPLY
+SEMICOLON
+Вычисленное выражение: 13
+PLUS
+PLUS
+SEMICOLON
+На 89 строке 4 столбце обнаружена ошибка: Неправильная команда
+IDENTIFIER = X
+EQUAL
+PLUS
+MULTIPLY
+DIVIDE
+На 90 строке 9 столбце обнаружена ошибка: Деление на ноль
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+LESS
+IDENTIFIER = Z
+На 91 строке 12 столбце обнаружена ошибка: Данной переменной не существует
+RPAREN
+Выражение слева: 3
+Выражение справа: 1955316448
+PLUS
+SEMICOLON
+Вычисленное выражение: 4
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+NOT
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = X
+EQUAL
+SEMICOLON
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 3
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+LOOP
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+AND
+Выражение слева: 4
+Выражение справа: 3
+PLUS
+MULTIPLY
+GREATER
+RPAREN
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+LOOP
+SEMICOLON
+На 94 строке 44 столбце обнаружена ошибка: LOOP вне DO WHILE
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+OR
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+EXIT
+PLUS
+SEMICOLON
+На 95 строке 31 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+.DIVIDE
+DIVIDE
+SEMICOLON
+На 96 строке 5 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+LESS
+PLUS
+IDENTIFIER = y
+Переменная y имеет значение 4
+RPAREN
+На 97 строке 14 столбце обнаружена ошибка: Пропущен знак сравнения
+PLUS
+SEMICOLON
+Вычисленное выражение: 2
+EXIT
+LOOP
+ENDDO
+SEMICOLON
+На 97 строке 36 столбце обнаружена ошибка: Неправильная команда
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 1
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = LOOOP
+ENDDO
+DO WHILE
+LPAREN
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+На 99 строке 14 столбце обнаружена ошибка: Ошибка в присвоении значения переменной
+На 99 строке 14 столбце обнаружена ошибка: Пропущена точка с запятой
+PLUS
+SEMICOLON
+На 99 строке 20 столбце обнаружена ошибка: Неправильная команда
+EXIT
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+GREATER
+AND
+Выражение слева: 3
+Выражение справа: 5
+IDENTIFIER = y
+Переменная y имеет значение 4
+LEQ
+RPAREN
+Выражение слева: 4
+Выражение справа: 3
+IDENTIFIER = x
+EQUAL
+SEMICOLON
+IDENTIFIER = y
+EQUAL
+SEMICOLON
+LOOP
+ENDDO
+SEMICOLON
+DO WHILE
+LPAREN
+IDENTIFIER = x
+Переменная x имеет значение 3
+EQUAL
+GREATER
+AND
+На 101 строке 17 столбце обнаружена ошибка: Пропущен знак сравнения
+IDENTIFIER = X
+Переменная X имеет значение 3
+LEQ
+RPAREN
+Выражение слева: 3
+Выражение справа: 1
+EXIT
+PLUS
+SEMICOLON
+На 101 строке 33 столбце обнаружена ошибка: Неправильная команда
+ENDDO
+SEMICOLON
+В ходе выполнения обнаружено 65 ошибок.
